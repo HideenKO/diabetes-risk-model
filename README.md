@@ -1,15 +1,14 @@
 🩺 Diabetes Prediction Project
-This is my first Data Science project aimed at predicting whether a patient has diabetes based on medical data.
-The goal was to apply basic data preprocessing, exploratory data analysis (EDA), and machine learning techniques to build a simple yet effective classification model.
+This is my first Data Science project focused on predicting diabetes based on medical data. I worked with two datasets: one from Kaggle and another custom dataset 🧾.
 
-Key features:
+🔧 What’s inside:
 
-Data cleaning and preprocessing
+Data preprocessing & cleaning
 
-Exploratory Data Analysis (EDA) with visualizations
+Exploratory Data Analysis (EDA) 📊
 
-Model training using scikit-learn (Logistic Regression, Random Forest, etc.)
+Used a range of modern ML models: Logistic Regression, Random Forest, XGBoost, and others 🤖
 
-Evaluation using accuracy, precision, recall, and ROC-AUC
+Evaluation with key metrics: accuracy, precision, recall, F1-score, ROC-AUC 📈
 
-Final model selection and interpretation of results
+🧠 The goal was to gain practical experience in the full ML pipeline: from raw data to model interpretation.
